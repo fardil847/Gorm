@@ -13,12 +13,12 @@ func main() {
 	database.StartDB()
 
 	// getUserById(1)
-	// createUser("farahdila@gmail.com")
+	// createUser("lalalala@gmail.com")
 	// updateUserById(1, "johnjohn@gmail.com")
 	// getAllUsers()
 	// createProduct(1, "YLO", "YYYY")
 	// getUserWithProducts()
-	deleteProductById(1)
+	// deleteProductById(1)
 
 }
 
